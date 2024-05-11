@@ -1,0 +1,28 @@
+{
+    "name": "ununx.com",
+    "symbol": "UNX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Blockchain decentralized derivatives exchange",
+    "website": "https://www.ununx.com",
+    "explorer": "https://sepolia.arbiscan.io/token/0xC9aed7cEd0D5470749cd64B70752362f3299F841",
+    "status": "active",
+    "id": "0xC9aed7cEd0D5470749cd64B70752362f3299F841",
+	"tags": [
+        "exchange"		
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ununx_com"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/y6dWX9MVCV"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.ununx.com/file/whitebook_en.pdf"
+        }
+    ]
+}
